@@ -1,7 +1,6 @@
 import { useState } from 'react'
 
 import './App.css'
-import Greeting from './Component/Greeting'
 import BookList from './Component/Booklist'
 
 function App() {
